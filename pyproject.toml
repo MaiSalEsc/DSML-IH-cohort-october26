@@ -1,0 +1,9 @@
+[project]
+name = "dsml-ih-cohort-october26"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.6",
+]
